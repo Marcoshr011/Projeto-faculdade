@@ -68,3 +68,5 @@ yarn install
 # executar o projeto
 yarn start
 ```
+
+https://www.linkedin.com/in/marcos-henrique-ribeiro-4a8939172/
